@@ -16,6 +16,13 @@
             "program": "${workspaceRoot}/cadenas.rb"
         },
         {
+            "name": "operadores",
+            "type": "Ruby",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}/operadores.rb"
+        },
+        {
             "name": "Listen for rdebug-ide",
             "type": "Ruby",
             "request": "attach",
