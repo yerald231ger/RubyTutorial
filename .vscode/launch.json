@@ -2,6 +2,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "arreglos",
+            "type": "Ruby",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "program": "${workspaceRoot}/arreglos.rb"
+        },
+        {
             "name": "variables",
             "type": "Ruby",
             "request": "launch",
